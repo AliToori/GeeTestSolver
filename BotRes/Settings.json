@@ -1,0 +1,9 @@
+{
+  "Settings": {
+    "Email": "asdas@gmail.com",
+    "Password": "asasdasd",
+    "2CaptchaAPIKey": "asd",
+    "NumberOfInstancesToRun": 1,
+    "WaitForIP": 10
+  }
+}
